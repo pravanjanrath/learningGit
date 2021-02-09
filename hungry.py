@@ -9,4 +9,8 @@ else :
 
 #this is the line from new feature branch
 #testing feature
+<<<<<<< HEAD
 #adding bugfixes wiht this branch
+=======
+#Adding Feature branch Changes
+>>>>>>> feature-branch
